@@ -1,0 +1,22 @@
+{
+  "name": "k4ng-components",
+  "authors": [
+    "Kang cahya <dyazincahya@gmail.com>"
+  ],
+  "description": "A collection of web-components from kang to polymer project",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "element-collection",
+    "k4ng"
+  ],
+  "main": "k4ng-components.html",
+  "license": "MIT",
+  "homepage": "https://github.com/k4ng/k4ng-components",
+  "ignore": [],
+  "dependencies": {
+    "k-avatar": "k4ng/k-avatar",
+    "k-speech": "k4ng/k-speech"
+  }
+}
