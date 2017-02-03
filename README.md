@@ -1,5 +1,5 @@
 # k4ng-components
-> A collection of web-components from kang to "polymer project"
+> This is a collection of iseng
 
 ## Contributing
 
