@@ -1,5 +1,5 @@
 # k4ng-components
-> This is a collections of iseng
+> This is a collections of "iseng"
 
 ## Contributing
 
