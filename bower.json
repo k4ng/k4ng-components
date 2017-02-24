@@ -18,6 +18,7 @@
   "dependencies": {
     "k-avatar": "k4ng/k-avatar",
     "k-speech": "k4ng/k-speech",
-    "k-viewer-doc": "k4ng/k-viewer-doc"
+    "k-viewer-doc": "k4ng/k-viewer-doc",
+    "k-redirect": "k4ng/k-redirect"
   }
 }
