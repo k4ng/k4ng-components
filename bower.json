@@ -3,7 +3,7 @@
   "authors": [
     "Kang cahya <dyazincahya@gmail.com>"
   ],
-  "description": "A collection of web-components from kang to polymer project",
+  "description": "This is a collections of iseng",
   "keywords": [
     "web-component",
     "web-components",
@@ -17,6 +17,7 @@
   "ignore": [],
   "dependencies": {
     "k-avatar": "k4ng/k-avatar",
-    "k-speech": "k4ng/k-speech"
+    "k-speech": "k4ng/k-speech",
+    "k-viewer-doc": "k4ng/k-viewer-doc"
   }
 }
